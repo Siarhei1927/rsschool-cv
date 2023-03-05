@@ -4,6 +4,7 @@
 
 html {
     scroll-behavior: smooth;
+    margin: 0 auto;
 }
 
 body {
@@ -26,7 +27,7 @@ body {
 .container {
     max-width: 1440px;
     margin: 0 auto;
-
+    padding: 0px 50px;
 }
 
 .nav-list {
